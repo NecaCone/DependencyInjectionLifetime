@@ -1,0 +1,13 @@
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\bin\Debug\netcoreapp3.1\DependencyInjectionLifetime.exe
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\bin\Debug\netcoreapp3.1\DependencyInjectionLifetime.deps.json
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\bin\Debug\netcoreapp3.1\DependencyInjectionLifetime.runtimeconfig.json
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\bin\Debug\netcoreapp3.1\DependencyInjectionLifetime.runtimeconfig.dev.json
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\bin\Debug\netcoreapp3.1\DependencyInjectionLifetime.dll
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\bin\Debug\netcoreapp3.1\DependencyInjectionLifetime.pdb
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.csprojAssemblyReference.cache
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.AssemblyInfoInputs.cache
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.AssemblyInfo.cs
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.csproj.CoreCompileInputs.cache
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.dll
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.pdb
+C:\Users\nemanjacvetkovic\source\repos\DependencyInjectionLifetime\DependencyInjectionLifetime\obj\Debug\netcoreapp3.1\DependencyInjectionLifetime.genruntimeconfig.cache
